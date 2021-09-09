@@ -1,0 +1,29 @@
+.example-card {
+  width: 350px;
+}
+
+img {
+  height: 200px;
+  width: 382px;
+}
+
+.card{
+  margin:20px 2px 2px 130px;
+  width: 500px;
+  padding:10px;
+}
+
+button{
+  background-color: #808080;
+}
+
+div {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+
+
+
+
